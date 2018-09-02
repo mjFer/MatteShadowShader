@@ -1,5 +1,5 @@
 
-# Matte Shadow Shader
+# Unity Matte Shadow Shader
 
 this is a little test of a simple shader which simulates the classic static camera with the add-on of shadows (RE Remake, Alone in the dark new nightmare, etc)
 
