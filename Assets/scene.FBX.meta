@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 90de9e47ec6d84b4c92a91e080215371
+timeCreated: 1519182979
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box003
+    100004: Box004
+    100006: Box005
+    100008: Box006
+    100010: Box007
+    100012: Box008
+    100014: Camera001
+    100016: Camera001.Target
+    100018: CasementWindow001
+    100020: Curve001
+    100022: Mesa
+    100024: Plane001
+    100026: //RootNode
+    100028: Teapot001
+    100030: Torus Knot001
+    100032: VRaySun001
+    100034: VRaySun001.Target
+    100036: Wall004
+    100038: Wall005
+    100040: Camera002
+    400000: Box002
+    400002: Box003
+    400004: Box004
+    400006: Box005
+    400008: Box006
+    400010: Box007
+    400012: Box008
+    400014: Camera001
+    400016: Camera001.Target
+    400018: CasementWindow001
+    400020: Curve001
+    400022: Mesa
+    400024: Plane001
+    400026: //RootNode
+    400028: Teapot001
+    400030: Torus Knot001
+    400032: VRaySun001
+    400034: VRaySun001.Target
+    400036: Wall004
+    400038: Wall005
+    400040: Camera002
+    2000000: Camera001
+    2000002: Camera002
+    2300000: Box002
+    2300002: Box003
+    2300004: Box004
+    2300006: Box005
+    2300008: Box006
+    2300010: Box007
+    2300012: Box008
+    2300014: CasementWindow001
+    2300016: Curve001
+    2300018: Plane001
+    2300020: Teapot001
+    2300022: Torus Knot001
+    2300024: Wall004
+    2300026: Wall005
+    3300000: Box002
+    3300002: Box003
+    3300004: Box004
+    3300006: Box005
+    3300008: Box006
+    3300010: Box007
+    3300012: Box008
+    3300014: CasementWindow001
+    3300016: Curve001
+    3300018: Plane001
+    3300020: Teapot001
+    3300022: Torus Knot001
+    3300024: Wall004
+    3300026: Wall005
+    4300000: Plane001
+    4300002: Box002
+    4300004: CasementWindow001
+    4300006: Wall004
+    4300008: Wall005
+    4300010: Box003
+    4300012: Box006
+    4300014: Box005
+    4300016: Box007
+    4300018: Box004
+    4300020: Box008
+    4300022: Curve001
+    4300024: Teapot001
+    4300026: Torus Knot001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
